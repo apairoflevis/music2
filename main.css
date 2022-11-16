@@ -126,8 +126,6 @@ input[type="range"]::-webkit-slider-thumb {
 .right #title {
   position: absolute;
   top: 60px;
-  left: 50%;
-  transform: translateX(-50%);
   text-transform: capitalize;
   color: #fff;
   font-size: 35px;
