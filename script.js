@@ -28,7 +28,7 @@ let All_song = [
     {
 		name: "You Can't Catch Me",
 		path: "music/chuck.mp3",
-		img: "images/chuck.jpg",
+		img: "images/berry.jpg",
 		singer: "Chuck Berry"
 	},
 
@@ -43,7 +43,7 @@ let All_song = [
     {
 		name: "Footsteps In The Dark",
 		path: "music/isley.mp3",
-		img: "images/isley.png",
+		img: "images/isle.png",
 		singer: "The Isley Brothers"
 	},
 	{
@@ -69,17 +69,17 @@ let All_song = [
 
 
 	{
-		name: "Pastime Paradise",
-		path: "music/stevie.mp3",
-		img: "images/stevie.jpg",
-		singer: "Stevie Wonder"
+		name: "Kookaburra",
+		path: "music/Kookaburra.mp3",
+		img: "images/kooka.jpg",
+		singer: "Marion Sinclair"
 	},
 
 	{
-		name: "Gangsta's Paradise",
-		path: "music/coolio.mp3",
-		img: "images/coolio.jpg",
-		singer: "Coolio"
+		name: "Down Under",
+		path: "music/men.mp3",
+		img: "images/men.jpg",
+		singer: "Men at Work"
 	}
 
 ];
